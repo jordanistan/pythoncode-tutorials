@@ -1,6 +1,6 @@
 click==8.0.4
 dataclasses
-Flask==2.0.3
+Flask==2.2.5
 Flask-SQLAlchemy==2.5.1
 Flask-Bootstrap==3.3.7.1
 greenlet==1.1.2
