@@ -4,3 +4,4 @@ matplotlib
 numpy
 pandas
 yahoo_fin
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
