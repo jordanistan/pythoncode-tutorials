@@ -1,3 +1,4 @@
 transformers==4.18.0
 datasets
 sentencepiece
+aiohttp>=3.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
