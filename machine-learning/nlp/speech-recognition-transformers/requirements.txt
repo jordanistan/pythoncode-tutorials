@@ -1,4 +1,4 @@
-transformers==4.11.2
+transformers==4.37.0
 soundfile
 sentencepiece
 torchaudio
