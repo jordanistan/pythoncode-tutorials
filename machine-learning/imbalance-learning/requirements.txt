@@ -2,3 +2,4 @@ numpy
 pandas
 imblearn
 smote-variants
+tensorflow>=2.11.1 # not directly required, pinned by Snyk to avoid a vulnerability
