@@ -3,3 +3,4 @@ numpy
 pandas
 scikit_learn==1.0.2
 torch==1.13.1
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
