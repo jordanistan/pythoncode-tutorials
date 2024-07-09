@@ -2,3 +2,4 @@ python-dateutil
 requests
 bs4
 yahoo_fin
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
