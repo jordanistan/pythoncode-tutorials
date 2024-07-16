@@ -2,3 +2,8 @@ numpy
 pandas
 imblearn
 smote-variants
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tensorflow>=2.12.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+keras>=2.13.1rc0 # not directly required, pinned by Snyk to avoid a vulnerability
