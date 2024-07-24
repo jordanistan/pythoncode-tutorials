@@ -1,5 +1,7 @@
 matplotlib
 numpy
 pandas
-scikit_learn==1.5.1
+scikit_learn==1.0.2
 torch==1.13.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+
