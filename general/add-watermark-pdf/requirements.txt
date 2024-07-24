@@ -1,2 +1,2 @@
 PyPDF4==1.27.0
-reportlab==3.5.59
+reportlab==3.6.13
