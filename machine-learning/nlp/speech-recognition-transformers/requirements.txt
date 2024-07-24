@@ -1,5 +1,7 @@
-transformers==4.11.2
+transformers==4.36.0
 soundfile
 sentencepiece
 torchaudio
 pyaudio
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
