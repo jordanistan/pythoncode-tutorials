@@ -1,2 +1,2 @@
-selenium==3.141
+selenium==4.15.1
 msedge-selenium-tools
