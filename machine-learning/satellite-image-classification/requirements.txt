@@ -9,3 +9,4 @@ sklearn
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
 setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
 certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+keras>=3.11.3 # not directly required, pinned by Snyk to avoid a vulnerability
