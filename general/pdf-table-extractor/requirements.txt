@@ -1,3 +1,4 @@
 camelot-py[cv]
 tabula-py
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+pdfminer.six>=20251107 # not directly required, pinned by Snyk to avoid a vulnerability
