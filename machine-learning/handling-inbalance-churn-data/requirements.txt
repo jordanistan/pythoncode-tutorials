@@ -5,3 +5,5 @@ pandas
 statsmodels
 seaborn
 gdown
+filelock>=3.20.1 # not directly required, pinned by Snyk to avoid a vulnerability
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
